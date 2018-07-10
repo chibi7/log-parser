@@ -37,3 +37,6 @@ StringLiterals:
 
 DotPosition:
   EnforcedStyle: leading
+
+Naming/UncommunicativeMethodParamName:
+  MinNameLength: 2
