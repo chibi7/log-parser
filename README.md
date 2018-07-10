@@ -1,7 +1,7 @@
 Ruby script that:
 
 a. Receives a log as argument (webserver.log is provided)
-  e.g.: ./parser.rb webserver.log
+  e.g.: ruby lib/parser.rb webserver.log
 
 b. Returns the following:
 
